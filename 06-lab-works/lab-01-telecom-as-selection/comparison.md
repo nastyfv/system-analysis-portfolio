@@ -15,7 +15,6 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Раздел 1 -->
     <tr>
       <td colspan="4" style="background-color: #f6f8fa; font-weight: bold;">1. Функциональность</td>
     </tr>
@@ -37,8 +36,6 @@
       <td><strong>Специализированный учет (MAC)</strong></td>
       <td>Кастомные поля</td>
     </tr>
-
-    <!-- Раздел 2 -->
     <tr>
       <td colspan="4" style="background-color: #f6f8fa; font-weight: bold;">2. Стоимость (TCO)</td>
     </tr>
@@ -60,8 +57,6 @@
       <td>Средние</td>
       <td>Высокие</td>
     </tr>
-
-    <!-- Раздел 3 -->
     <tr>
       <td colspan="4" style="background-color: #f6f8fa; font-weight: bold;">3. Интеграция</td>
     </tr>
@@ -77,8 +72,6 @@
       <td>Есть готовая</td>
       <td>Через API</td>
     </tr>
-
-    <!-- Раздел 4 -->
     <tr>
       <td colspan="4" style="background-color: #f6f8fa; font-weight: bold;">4. Удобство</td>
     </tr>
